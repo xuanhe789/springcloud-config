@@ -1,1 +1,2 @@
-config:test my config
+config:
+  info: my test config 1
